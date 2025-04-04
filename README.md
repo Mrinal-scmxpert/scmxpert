@@ -83,14 +83,14 @@ scmxpert/
 │       │   └── PartnerServiceApplication.java
 │       └── resources/application.yml
 │
-├── gateway-service/               # API Gateway using Spring Cloud Gateway
+├── gateway-service/               # API Gateway
 │   ├── build.gradle
 │   └── src/
 │       ├── main/java/com/scmxpert/gateway/
 │       │   └── GatewayApplication.java
 │       └── resources/application.yml
 │
-└── config-server/                 # Centralized Spring Cloud Config Server
+└── config-server/                 # Centralized Cloud Config Server
     ├── build.gradle
     └── src/
         ├── main/java/com/scmxpert/config/
