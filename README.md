@@ -1,3 +1,6 @@
+## 📁 Project Structure
+
+```plaintext
 scmxpert/
 ├── build.gradle                    # Root build file for shared dependencies and plugins
 ├── settings.gradle                 # Gradle settings for multi-module setup
